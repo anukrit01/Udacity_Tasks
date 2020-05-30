@@ -1,0 +1,19 @@
+Task 0:
+I have used index of list to find the required elements.
+So, Time Complexity is O(1).
+
+Task 1:
+I have used simple loops to add the numbers into a set.
+so, Time Complexity is O(n).
+
+Task 2:
+I have used some simple and nested loops and in-built functions to execute the program.
+So, Time Complexity is O(n^2).
+
+Task 3:
+I have used simple loops to iterate over the numbers and used list.sort() function for sorting the list.
+So, Time Complexity is O(n log(n)).
+
+Task 4:
+I have used simple loops to iterate over the numbers and used list.sort() function for sorting the list.
+So, Time Complexity is O(n log(n)).
